@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1635341947 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\color.c
+	"color.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635342138 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\color.h
+
+1635341975 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"trabajo.h"
+
+1635341985 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\fecha.h
+
+1635342080 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\trabajo.h
+	"fecha.h"
+	"servicio.h"
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+
+1635342044 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\servicio.h
+
+1635341913 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\bicicleta.h
+	"tipo.h"
+	"color.h"
+
+1635342060 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\tipo.h
+
+1635341996 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\inputs.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+
+1635342038 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\servicio.c
+	"servicio.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635342052 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635341877 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inputs.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"bicicleta.h"
+	"trabajo.h"
+	"hardcodear.h"
+
+1635342007 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\inputs.h
+	"bicicleta.h"
+
+1635342068 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"trabajo.h"
+	"servicio.h"
+	"color.h"
+	"bicicleta.h"
+	"tipo.h"
+	"inputs.h"
+
+1635341900 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"inputs.h"
+	"tipo.h"
+	"color.h"
+	"bicicleta.h"
+	<string.h>
+	<ctype.h>
+
+1635337573 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\hardcodear.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"hardcodear.h"
+
+1635036882 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\hardcodear.h
+	"bicicleta.h"
+	"trabajo.h"
+	"fecha.h"
+
